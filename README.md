@@ -1,4 +1,4 @@
-# OMSCS Class Schedule to Google Calendar
+# OMSCS Class Schedule to Google Calendar (via CSV)
 
 This repository contains CSV files with the OMSCS (Online Master of Science in Computer Science) class schedules, specifically created for easy import into Google Calendar. All times indicated in these schedules are based on Eastern Standard Time (EST). Below are the instructions on using these schedules.
 
