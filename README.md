@@ -4,7 +4,7 @@ This repository contains CSV files with the OMSCS (Online Master of Science in C
 
 ## Import to Google Calendar
 
-You can easily import the class schedule to your Google Calendar by following these steps:
+You can easily import the class schedule to your Google Calendar by following these steps ([or this YouTube video](https://youtu.be/SEV5bjQ2Wi8?si=FcGyj8wB6471wvxc&t=294)):
 
 1. Download the desired CSV file from this repository.
 2. Open Google Calendar.
