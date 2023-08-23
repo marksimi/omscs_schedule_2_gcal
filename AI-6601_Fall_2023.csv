@@ -14,17 +14,43 @@ AI-6601 - Assignment 5,11/13/23,6:00 AM,11/13/23,8:00 AM,FALSE,AI-6601 - Assignm
 AI-6601 - Assignment 6,12/4/23,6:00 AM,12/4/23,8:00 AM,FALSE,AI-6601 - Assignment 6,,FALSE
 AI-6601 - Final Quiz,12/11/23,6:00 AM,12/11/23,8:00 AM,FALSE,AI-6601 - Final Quiz,,FALSE
 AI-6601 - Roll Call Attendance,12/11/23,6:00 AM,12/11/23,8:00 AM,FALSE,AI-6601 - Roll Call Attendance,,FALSE
-AI-6601 - Week 1,8/21/23,12:00 AM,8/26/23,12:00 AM,FALSE,1. Search; 4th edition: Chapter 3 (3rd: Chapter 3).  2. Korf paper.  3. R&N slides on Uninformed Search.  4. R&N slides on Informed Search.,,FALSE
-AI-6601 - Week 2,8/28/23,12:00 AM,9/2/23,12:00 AM,FALSE,1. Simulated Annealing and Local Search; 4th edition: Chapter 4 (3rd edition: Chapter 4). 2. R&N slides on Beyond Search.,,FALSE
-AI-6601 - Week 3,9/4/23,12:00 AM,9/9/23,12:00 AM,FALSE,1. Game Playing through Depth-limited Search; play each other in Isolation; 4th edition: Chapter 1-2; Chapter 5.0-5.2 (3rd edition: Chapter 1-2; Chapter 5.0-5.2).  2. R&N slides on Game Playing.,,FALSE
-AI-6601 - Week 4,9/11/23,12:00 AM,9/16/23,12:00 AM,FALSE,"1. Game Playing through the end; 4th edition: Chapter 5.3-5.7 (3rd edition: Chapter 5.3-5.9), 2. Korf: 3 player alpha-beta.",,FALSE
-AI-6601 - Week 5,9/18/23,12:00 AM,9/23/23,12:00 AM,FALSE,1. Constraint Satisfaction; 4th edition: Chapter 6 (3rd edition: Chapter 6). 2. R&N slides on Constraint Satisfaction Problems.,,FALSE
-AI-6601 - Week 6,9/25/23,12:00 AM,9/30/23,12:00 AM,FALSE,1. Probability; 4th edition: Chapter 12 (3rd edition: Chapter 13). 2. R&N slides on Probability.,,FALSE
-AI-6601 - Week 7,10/2/23,12:00 AM,10/7/23,12:00 AM,FALSE,1. Bayes Nets; 4th edition: Chapter 13 (3rd edition: Chapter 14). 2. R&N slides on Bayes Nets.  3. R&N slides on Bayes Nets Inference.,,FALSE
-AI-6601 - Week 9,10/16/23,12:00 AM,10/21/23,12:00 AM,FALSE,"1. ML through Random Forests; 4th edition: Chapter 19.1-19.5, 19.7, 20.1-20.2 (3rd edition: Chapter 18.1-18.5,18.8, 20.1-20.2). 2. R&N slides on Learning from Observation: Decision Trees (18.1-18.3). 3. R&N slides Statistical Learning (20.1-20.2). 4. On-campus slides on Decision Trees and the accompanying alternative explanation. 5. Optional: For those interested in the practical use of Decision Trees that may be on your Android phone by now, see Clawson’s Ph.D. dissertation.",,FALSE
-AI-6601 - Week 10,10/23/23,12:00 AM,10/28/23,12:00 AM,FALSE,"1. ML to end; 4th edition: Chapter 19.6-19.9, Chapter 20.3 (3rd edition: Chapter 18.6-18.11, Chapter 20.3). Mitchell reading on EM. 2. R&N slides on Neural Nets. 3. Tutorial slides on boosting.  4. Boosting paper.",,FALSE
-AI-6601 - Week 11,10/30/23,12:00 AM,11/4/23,12:00 AM,FALSE,1. Pattern Recognition through Time through New Observation Sequence for “We”; 4th edition: Chapter 14 (3rd edition: Chapter 15). 2. R&N slides for Temporal probability models: HMMs and Kalman filters.,,FALSE
-AI-6601 - Week 12,11/6/23,12:00 AM,11/11/23,12:00 AM,FALSE,1. Pattern Recognition through Time to end; 4th edition: Chapter 23 (3rd edition: Chapter 22). 2. R&N slides for Speech.  3. R&N slides for Grammar.,,FALSE
-AI-6601 - Week 13,11/13/23,12:00 AM,11/18/23,12:00 AM,FALSE,"1. Logic & Planning; Chapter 7-9, Chapter 11 (3rd edition: Chapter 7-10). 2. R&N slides for Chapter 7. 3. R&N slides for Chapter 8. 4. R&N slides for Chapter 9. 5. R&N slides for Chapter 11. 6. R&N slides for Chapter 13.",,FALSE
+AI-6601 - Week 1,8/21/23,12:00 AM,8/26/23,12:00 AM,FALSE,"1. Search; 4th edition: Chapter 3 (3rd: Chapter 3). 
+2. Korf paper.
+3. R&N slides on Uninformed Search.
+4. R&N slides on Informed Search.",,FALSE
+AI-6601 - Week 2,8/28/23,12:00 AM,9/2/23,12:00 AM,FALSE,"1. Simulated Annealing and Local Search; 4th edition: Chapter 4 (3rd edition: Chapter 4). 
+2. R&N slides on Beyond Search.",,FALSE
+AI-6601 - Week 3,9/4/23,12:00 AM,9/9/23,12:00 AM,FALSE,"1. Game Playing through Depth-limited Search; play each other in Isolation; 4th edition: Chapter 1-2; Chapter 5.0-5.2 (3rd edition: Chapter 1-2; Chapter 5.0-5.2).  
+2. R&N slides on Game Playing.",,FALSE
+AI-6601 - Week 4,9/11/23,12:00 AM,9/16/23,12:00 AM,FALSE,"1. Game Playing through the end; 4th edition: Chapter 5.3-5.7 (3rd edition: Chapter 5.3-5.9). 
+2. Korf: 3 player alpha-beta.",,FALSE
+AI-6601 - Week 5,9/18/23,12:00 AM,9/23/23,12:00 AM,FALSE,"1. Constraint Satisfaction; 4th edition: Chapter 6 (3rd edition: Chapter 6).
+2. R&N slides on Constraint Satisfaction Problems.",,FALSE
+AI-6601 - Week 6,9/25/23,12:00 AM,9/30/23,12:00 AM,FALSE,"1. Probability; 4th edition: Chapter 12 (3rd edition: Chapter 13).
+2. R&N slides on Probability.",,FALSE
+AI-6601 - Week 7,10/2/23,12:00 AM,10/7/23,12:00 AM,FALSE,"1. Bayes Nets; 4th edition: Chapter 13 (3rd edition: Chapter 14).
+2. R&N slides on Bayes Nets.
+3. R&N slides on Bayes Nets Inference.",,FALSE
+AI-6601 - Week 9,10/16/23,12:00 AM,10/21/23,12:00 AM,FALSE,"1. ML through Random Forests; 4th edition: Chapter 19.1-19.5, 19.7, 20.1-20.2 (3rd edition: Chapter 18.1-18.5,18.8, 20.1-20.2).
+2. R&N slides on Learning from Observation: Decision Trees (18.1-18.3). 
+3. R&N slides Statistical Learning (20.1-20.2). 
+4. On-campus slides on Decision Trees and the accompanying alternative explanation.
+5. Optional: For those interested in the practical use of Decision Trees that may be on your Android phone by now, see Clawson’s Ph.D. dissertation.",,FALSE
+AI-6601 - Week 10,10/23/23,12:00 AM,10/28/23,12:00 AM,FALSE,"1. ML to end; 4th edition: Chapter 19.6-19.9, Chapter 20.3 (3rd edition: Chapter 18.6-18.11, Chapter 20.3). Mitchell reading on EM. 
+2. R&N slides on Neural Nets. 
+3. Tutorial slides on boosting. 
+4. Boosting paper.",,FALSE
+AI-6601 - Week 11,10/30/23,12:00 AM,11/4/23,12:00 AM,FALSE,"1. Pattern Recognition through Time through New Observation Sequence for “We”; 4th edition: Chapter 14 (3rd edition: Chapter 15).
+2. R&N slides for Temporal probability models: HMMs and Kalman filters.",,FALSE
+AI-6601 - Week 12,11/6/23,12:00 AM,11/11/23,12:00 AM,FALSE,"1. Pattern Recognition through Time to end; 4th edition: Chapter 23 (3rd edition: Chapter 22).
+2. R&N slides for Speech.
+3. R&N slides for Grammar.",,FALSE
+AI-6601 - Week 13,11/13/23,12:00 AM,11/18/23,12:00 AM,FALSE,"1. Logic & Planning; Chapter 7-9, Chapter 11 (3rd edition: Chapter 7-10).
+2. R&N slides for Chapter 7. 
+3. R&N slides for Chapter 8. 
+4. R&N slides for Chapter 9. 
+5. R&N slides for Chapter 11. 
+6. R&N slides for Chapter 13.",,FALSE
 AI-6601 - Week 14,11/20/23,12:00 AM,11/25/23,12:00 AM,FALSE,1. Logic & Planning; Overflow from previous weeks.,,FALSE
-AI-6601 - Week 15,11/27/23,12:00 AM,12/2/23,12:00 AM,FALSE,"1. Planning under Uncertainty; 4th edition: Chapter 17, Chapter 22 (3rd edition: Chapter 17, Chapter 21). 2. R&N slides Chapter 17.",,FALSE
+AI-6601 - Week 15,11/27/23,12:00 AM,12/2/23,12:00 AM,FALSE,"1. Planning under Uncertainty; 4th edition: Chapter 17, Chapter 22 (3rd edition: Chapter 17, Chapter 21).
+2. R&N slides Chapter 17.",,FALSE
