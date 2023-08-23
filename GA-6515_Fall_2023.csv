@@ -1,0 +1,64 @@
+Subject,Start Date,Start Time,End Date,End Time,All day event,Description,Location,Private,assignment,class,due,"due dow, time"
+GA-6515 - HW0 ,8/28/23,6:00 AM,8/28/23,8:00 AM,FALSE,GA-6515 - HW0 ,,FALSE,HW0 ,GA-6515,Aug 28,"Mon, 7:59am"
+GA-6515 - Comms + Logistics Quiz,8/28/23,6:00 AM,8/28/23,8:00 AM,FALSE,GA-6515 - Comms + Logistics Quiz,,FALSE,Comms + Logistics Quiz,GA-6515,Aug 28,"Mon, 7:59am"
+GA-6515 - HW1,9/4/23,6:00 AM,9/4/23,8:00 AM,FALSE,GA-6515 - HW1,,FALSE,HW1,GA-6515,Sep 4,"Mon, 7:59am"
+GA-6515 - Quiz 1,9/4/23,6:00 AM,9/4/23,8:00 AM,FALSE,GA-6515 - Quiz 1,,FALSE,Quiz 1,GA-6515,Sep 4,"Mon, 7:59am"
+GA-6515 - HW2,9/11/23,6:00 AM,9/11/23,8:00 AM,FALSE,GA-6515 - HW2,,FALSE,HW2,GA-6515,Sep 11,"Mon, 7:59am"
+GA-6515 - Quiz 2,9/11/23,6:00 AM,9/11/23,8:00 AM,FALSE,GA-6515 - Quiz 2,,FALSE,Quiz 2,GA-6515,Sep 11,"Mon, 7:59am"
+GA-6515 - Coding Project I,9/11/23,6:00 AM,9/11/23,8:00 AM,FALSE,GA-6515 - Coding Project I,,FALSE,Coding Project I,GA-6515,Sep 11,"Mon, 7:59am"
+GA-6515 - Academic Integrity Quiz,9/18/23,6:00 AM,9/18/23,8:00 AM,FALSE,GA-6515 - Academic Integrity Quiz,,FALSE,Academic Integrity Quiz,GA-6515,Sep 18,"Mon, 7:59am"
+GA-6515 - HW3,9/18/23,6:00 AM,9/18/23,8:00 AM,FALSE,GA-6515 - HW3,,FALSE,HW3,GA-6515,Sep 18,"Mon, 7:59am"
+GA-6515 - Coding Project II,9/18/23,6:00 AM,9/18/23,8:00 AM,FALSE,GA-6515 - Coding Project II,,FALSE,Coding Project II,GA-6515,Sep 18,"Mon, 7:59am"
+GA-6515 - Exam 1,9/25/23,6:00 AM,9/25/23,8:00 AM,FALSE,GA-6515 - Exam 1,,FALSE,Exam 1,GA-6515,Sep 25,"Mon, 7:59am"
+GA-6515 - HW4,10/2/23,6:00 AM,10/2/23,8:00 AM,FALSE,GA-6515 - HW4,,FALSE,HW4,GA-6515,Oct 2,"Mon, 7:59am"
+GA-6515 - Quiz 3,10/2/23,6:00 AM,10/2/23,8:00 AM,FALSE,GA-6515 - Quiz 3,,FALSE,Quiz 3,GA-6515,Oct 2,"Mon, 7:59am"
+GA-6515 - HW5,10/9/23,6:00 AM,10/9/23,8:00 AM,FALSE,GA-6515 - HW5,,FALSE,HW5,GA-6515,Oct 9,"Mon, 7:59am"
+GA-6515 - Quiz 4,10/9/23,6:00 AM,10/9/23,8:00 AM,FALSE,GA-6515 - Quiz 4,,FALSE,Quiz 4,GA-6515,Oct 9,"Mon, 7:59am"
+GA-6515 - Coding Project III,10/16/23,6:00 AM,10/16/23,8:00 AM,FALSE,GA-6515 - Coding Project III,,FALSE,Coding Project III,GA-6515,Oct 16,"Mon, 7:59am"
+GA-6515 - Quiz 5,10/16/23,6:00 AM,10/16/23,8:00 AM,FALSE,GA-6515 - Quiz 5,,FALSE,Quiz 5,GA-6515,Oct 16,"Mon, 7:59am"
+GA-6515 - Exam 2,10/23/23,6:00 AM,10/23/23,8:00 AM,FALSE,GA-6515 - Exam 2,,FALSE,Exam 2,GA-6515,Oct 23,"Mon, 7:59am"
+GA-6515 - HW6,10/30/23,6:00 AM,10/30/23,8:00 AM,FALSE,GA-6515 - HW6,,FALSE,HW6,GA-6515,Oct 30,"Mon, 7:59am"
+GA-6515 - Quiz 6,10/30/23,6:00 AM,10/30/23,8:00 AM,FALSE,GA-6515 - Quiz 6,,FALSE,Quiz 6,GA-6515,Oct 30,"Mon, 7:59am"
+GA-6515 - HW7,11/6/23,6:00 AM,11/6/23,8:00 AM,FALSE,GA-6515 - HW7,,FALSE,HW7,GA-6515,Nov 6,"Mon, 7:59am"
+GA-6515 - Quiz 7,11/6/23,6:00 AM,11/6/23,8:00 AM,FALSE,GA-6515 - Quiz 7,,FALSE,Quiz 7,GA-6515,Nov 6,"Mon, 7:59am"
+GA-6515 - Coding Project IV,11/13/23,6:00 AM,11/13/23,8:00 AM,FALSE,GA-6515 - Coding Project IV,,FALSE,Coding Project IV,GA-6515,Nov 13,"Mon, 7:59am"
+GA-6515 - Exam 3,11/20/23,6:00 AM,11/20/23,8:00 AM,FALSE,GA-6515 - Exam 3,,FALSE,Exam 3,GA-6515,Nov 20,"Mon, 7:59am"
+GA-6515 - Final Exam,12/11/23,6:00 AM,12/11/23,8:00 AM,FALSE,GA-6515 - Final Exam,,FALSE,Final Exam,GA-6515,Dec 11,"Mon, 7:59am"
+GA-6515 - Week 1,8/21/23,12:00 AM,8/26/23,12:00 AM,FALSE,"1. (Chapter 6 on the book) Dynamic Programming.
+2. LIS, LCS (DP1 lecture video)
+3. Knapsack (DP2 lecture video)",,FALSE,Week 1,GA-6515,,
+GA-6515 - Week 2,8/28/23,12:00 AM,9/2/23,12:00 AM,FALSE,"1. (Chapter 6 on the book) Dynamic Programming.
+2. Chain Multiply (DP2 lecture video)
+3. Shortest paths (DP3 lecture video)",,FALSE,Week 2,GA-6515,,
+GA-6515 - Week 3,9/4/23,12:00 AM,9/9/23,12:00 AM,FALSE,"1. Fast Multiplication (DC1 lecture video)
+2. Median of medians (DC2 lecture video)
+3. Recurrences (DC3 lecture video)
+4. Class Communication and Logistics is due",,FALSE,Week 3,GA-6515,,
+GA-6515 - Week 4,9/11/23,12:00 AM,9/16/23,12:00 AM,FALSE,"1. (Chapter 2) Divide and conquer II.
+2. Complex Numbers (DC4 lecture video)
+3. FFT (DC5 lecture video)",,FALSE,Week 4,GA-6515,,
+GA-6515 - Week 6,9/25/23,12:00 AM,9/30/23,12:00 AM,FALSE,"1. Graph algorithm I (Chapter 3, 4, and 5)
+2. Strongly Connected Components (GR1 lecture video)
+3. 2-SAT (GR2 lecture video)
+4. MST (GR3 lecture video)",,FALSE,Week 6,GA-6515,,
+GA-6515 - Week 7,10/2/23,12:00 AM,10/7/23,12:00 AM,FALSE,"1. Flow on networks (Chapter 7)
+2. Ford-Fulkerson algorithm for Max-flow (MF1 lecture video)
+3. Max-flow=min-cut (MF2 lecture video)
+4. Image segmentation (MF3 lecture video)
+5. Edmond-Karp algorithm for max-flow (MF4 lecture video)
+6. Flow variant: demands (MF5 lecture video)",,FALSE,Week 7,GA-6515,,
+GA-6515 - Week 8,10/9/23,12:00 AM,10/14/23,12:00 AM,FALSE,"1. Modular arithmetic and RSA (Chapter 1).
+2. Modular arithmetic (RA1 lecture video)
+3. RSA cryptosystem, primality testing (RA2 lecture video)",,FALSE,Week 8,GA-6515,,
+GA-6515 - Week 10,10/23/23,12:00 AM,10/28/23,12:00 AM,FALSE,"1. NP completeness (Chapter 8).
+2. NP, Reductions (NP1 lecture video)
+3. 3-SAT (NP2 lecture video)
+4. Graph problems (NP3 lecture video)",,FALSE,Week 10,GA-6515,,
+GA-6515 - Week 11,10/30/23,12:00 AM,11/4/23,12:00 AM,FALSE,"1. Linear programming (Chapter 7).
+2. LP introduction (LP1 lecture video)
+3. Duality and Geometry (LP2 and LP3 lecture video)",,FALSE,Week 11,GA-6515,,
+GA-6515 - Week 12,11/6/23,12:00 AM,11/11/23,12:00 AM,FALSE,"1. NP and LP.
+2. Max-SAT approximation algorithm (LP4 lecture video)
+3. Knapsack (NP4 lecture video)
+4. Halting problem (NP5 lecture video)",,FALSE,Week 12,GA-6515,,
+GA-6515 - Week 15,11/27/23,12:00 AM,12/2/23,12:00 AM,FALSE,1. Markov Chains (∗),,FALSE,Week 15,GA-6515,,
