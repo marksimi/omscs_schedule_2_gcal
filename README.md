@@ -14,7 +14,7 @@ You can easily import the schedule into Google Calendar by following these steps
 6. Select the Google Calendar where you want to add these events (typically, this is the one you're logged into).
 7. Click `Import`.
 
-Now, you should see the OMSCS class schedules in your Google Calendar.
+Now, you should see the OMSCS class schedules in your Google Calendar.  Here's a [YouTube video of these steps](https://youtu.be/SEV5bjQ2Wi8?si=FcGyj8wB6471wvxc&t=294).
 
 ## Please Report Errors
 
