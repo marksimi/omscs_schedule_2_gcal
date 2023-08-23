@@ -25,7 +25,7 @@ Despite my best efforts to maintain accuracy, there may be some errors in the sc
 3. Provide a concise but descriptive title.
 4. Describe the error in the description field. Ensure to mention the specific CSV file name, the type of error (misinformation, misspelling, incorrect date or time etc.), and any suggestions for correction, if applicable.
 
-I appreciate your help in keeping this repository accurate. Thank you!
+Thanks for helping to keep this information accurate!
 
 ## License
 
