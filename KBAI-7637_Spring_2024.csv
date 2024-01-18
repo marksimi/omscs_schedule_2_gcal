@@ -1,0 +1,67 @@
+Subject,Start Date,Start Time,End Date,End Time,All day event,Description,Location,Private,assignment,class,due,"due dow, time"
+KBAI-7637 - Start-of-Course Survey,1/15/24,7:00 AM,1/15/24,9:00 AM,FALSE,KBAI-7637 - Start-of-Course Survey,,FALSE,Start-of-Course Survey,KBAI-7637,1/15/24,"Mon, 8:59am"
+KBAI-7637 - RPM Milestone 1,1/22/24,7:00 AM,1/22/24,9:00 AM,FALSE,KBAI-7637 - RPM Milestone 1,,FALSE,RPM Milestone 1,KBAI-7637,1/22/24,"Mon, 8:59am"
+KBAI-7637 - Mini-Project 1,1/29/24,7:00 AM,1/29/24,9:00 AM,FALSE,KBAI-7637 - Mini-Project 1,,FALSE,Mini-Project 1,KBAI-7637,1/29/24,"Mon, 8:59am"
+KBAI-7637 - Homework 1,2/5/24,7:00 AM,2/5/24,9:00 AM,FALSE,KBAI-7637 - Homework 1,,FALSE,Homework 1,KBAI-7637,2/5/24,"Mon, 8:59am"
+KBAI-7637 - Mini-Project 2,2/12/24,7:00 AM,2/12/24,9:00 AM,FALSE,KBAI-7637 - Mini-Project 2,,FALSE,Mini-Project 2,KBAI-7637,2/12/24,"Mon, 8:59am"
+KBAI-7637 - Quarter-Course Survey,2/12/24,7:00 AM,2/12/24,9:00 AM,FALSE,KBAI-7637 - Quarter-Course Survey,,FALSE,Quarter-Course Survey,KBAI-7637,2/12/24,"Mon, 8:59am"
+KBAI-7637 - RPM Milestone 2,2/19/24,7:00 AM,2/19/24,9:00 AM,FALSE,KBAI-7637 - RPM Milestone 2,,FALSE,RPM Milestone 2,KBAI-7637,2/19/24,"Mon, 8:59am"
+KBAI-7637 - Exam 1,2/26/24,7:00 AM,2/26/24,9:00 AM,FALSE,KBAI-7637 - Exam 1,,FALSE,Exam 1,KBAI-7637,2/26/24,"Mon, 8:59am"
+KBAI-7637 - Homework 2,3/4/24,7:00 AM,3/4/24,9:00 AM,FALSE,KBAI-7637 - Homework 2,,FALSE,Homework 2,KBAI-7637,3/4/24,"Mon, 8:59am"
+KBAI-7637 - Mini-Project 3,3/11/24,7:00 AM,3/11/24,9:00 AM,FALSE,KBAI-7637 - Mini-Project 3,,FALSE,Mini-Project 3,KBAI-7637,3/11/24,"Mon, 8:59am"
+KBAI-7637 - Mid-Course Survey,3/11/24,7:00 AM,3/11/24,9:00 AM,FALSE,KBAI-7637 - Mid-Course Survey,,FALSE,Mid-Course Survey,KBAI-7637,3/11/24,"Mon, 8:59am"
+KBAI-7637 - RPM Milestone 3,3/18/24,7:00 AM,3/18/24,9:00 AM,FALSE,KBAI-7637 - RPM Milestone 3,,FALSE,RPM Milestone 3,KBAI-7637,3/18/24,"Mon, 8:59am"
+KBAI-7637 - Mini-Project 4,3/25/24,7:00 AM,3/25/24,9:00 AM,FALSE,KBAI-7637 - Mini-Project 4,,FALSE,Mini-Project 4,KBAI-7637,3/25/24,"Mon, 8:59am"
+KBAI-7637 - Homework 3,4/1/24,7:00 AM,4/1/24,9:00 AM,FALSE,KBAI-7637 - Homework 3,,FALSE,Homework 3,KBAI-7637,4/1/24,"Mon, 8:59am"
+KBAI-7637 - Mini-Project 5,4/8/24,7:00 AM,4/8/24,9:00 AM,FALSE,KBAI-7637 - Mini-Project 5,,FALSE,Mini-Project 5,KBAI-7637,4/8/24,"Mon, 8:59am"
+KBAI-7637 - RPM Milestone 4,4/15/24,7:00 AM,4/15/24,9:00 AM,FALSE,KBAI-7637 - RPM Milestone 4,,FALSE,RPM Milestone 4,KBAI-7637,4/15/24,"Mon, 8:59am"
+KBAI-7637 - Final RPM Project,4/22/24,7:00 AM,4/22/24,9:00 AM,FALSE,KBAI-7637 - Final RPM Project,,FALSE,Final RPM Project,KBAI-7637,4/22/24,"Mon, 8:59am"
+KBAI-7637 - Exam 2,4/29/24,7:00 AM,4/29/24,9:00 AM,FALSE,KBAI-7637 - Exam 2,,FALSE,Exam 2,KBAI-7637,4/29/24,"Mon, 8:59am"
+KBAI-7637 - End-of-Course Survey,5/6/24,7:00 AM,5/6/24,9:00 AM,FALSE,KBAI-7637 - End-of-Course Survey,,FALSE,End-of-Course Survey,KBAI-7637,5/6/24,"Mon, 8:59am"
+KBAI-7637 - CIOS Survey,5/6/24,7:00 AM,5/6/24,9:00 AM,FALSE,KBAI-7637 - CIOS Survey,,FALSE,CIOS Survey,KBAI-7637,5/6/24,"Mon, 8:59am"
+KBAI-7637 - Week 1,1/8/24,12:00 AM,1/14/24,12:00 AM,FALSE,"1. 01: Introduction to Knowledge-Based AI (45)
+2. 02: Introduction to CS7637 (60)
+3. Start-of-Course Survey",,FALSE,Week 1,KBAI-7637,,
+KBAI-7637 - Week 2,1/15/24,12:00 AM,1/21/24,12:00 AM,FALSE,"1. 03: Semantic Networks (60)
+2. 04: Generate & Test (30) 
+3. RPM Milestone 1",,FALSE,Week 2,KBAI-7637,,
+KBAI-7637 - Week 3,1/22/24,12:00 AM,1/28/24,12:00 AM,FALSE,"1. 05: Means-Ends Analysis (60)
+2. 06: Production Systems (60)
+3. Mini-Project 1",,FALSE,Week 3,KBAI-7637,,
+KBAI-7637 - Week 4,1/29/24,12:00 AM,2/4/24,12:00 AM,FALSE,"1. 07: Frames (45)
+2. 08: Learning by Recording Cases (30)
+3. Homework 1",,FALSE,Week 4,KBAI-7637,,
+KBAI-7637 - Week 5,2/5/24,12:00 AM,2/11/24,12:00 AM,FALSE,"1. 09: Case-Based Reasoning (60)
+2. Mini-Project 2
+3. Quarter-Course Survey",,FALSE,Week 5,KBAI-7637,,
+KBAI-7637 - Week 6,2/12/24,12:00 AM,2/18/24,12:00 AM,FALSE,"1. 10: Incremental Concept Learning (60)
+2. 11: Classification (45)
+3. RPM Milestone 2",,FALSE,Week 6,KBAI-7637,,
+KBAI-7637 - Week 7,2/19/24,12:00 AM,2/25/24,12:00 AM,FALSE,"1. 12: Logic (90)
+2. Exam 1",,FALSE,Week 7,KBAI-7637,,
+KBAI-7637 - Week 8,2/26/24,12:00 AM,3/3/24,12:00 AM,FALSE,"1. 13: Planning (75)
+2. 14: Understanding (30)
+3. Homework 2",,FALSE,Week 8,KBAI-7637,,
+KBAI-7637 - Week 9,3/4/24,12:00 AM,3/10/24,12:00 AM,FALSE,"1. 15: Commonsense Reasoning (60)
+2. 16: Scripts (30)
+3. Mini-Project 3
+4. Mid-Course Survey",,FALSE,Week 9,KBAI-7637,,
+KBAI-7637 - Week 10,3/11/24,12:00 AM,3/17/24,12:00 AM,FALSE,"1. 17: Explanation-Based Learning (45)
+2. 18: Analogical Reasoning (60)
+3. RPM Milestone 3",,FALSE,Week 10,KBAI-7637,,
+KBAI-7637 - Week 11,3/18/24,12:00 AM,3/24/24,12:00 AM,FALSE,"1. 19: Version Spaces (60)
+2. 20: Constraint Propagation (45)
+3. Mini-Project 4",,FALSE,Week 11,KBAI-7637,,
+KBAI-7637 - Week 12,3/25/24,12:00 AM,3/31/24,12:00 AM,FALSE,"1. 21: Configuration (45)
+2. 22: Diagnosis (45)
+3. Homework 3",,FALSE,Week 12,KBAI-7637,,
+KBAI-7637 - Week 13,4/2/24,12:00 AM,4/7/24,12:00 AM,FALSE,"1. 23: Learning by Correcting Mistakes (45)
+2. 24: Meta-Reasoning (30)
+3. Mini-Project 5",,FALSE,Week 13,KBAI-7637,,
+KBAI-7637 - Week 14,4/8/24,12:00 AM,4/14/24,12:00 AM,FALSE,"1. 25: Advanced Topics (60)
+2. RPM Milestone 4",,FALSE,Week 14,KBAI-7637,,
+KBAI-7637 - Week 15,4/15/24,12:00 AM,4/21/24,12:00 AM,FALSE,1. Final RPM Project,,FALSE,Week 15,KBAI-7637,,
+KBAI-7637 - Week 16,4/22/24,12:00 AM,4/28/24,12:00 AM,FALSE,1. Exam 2,,FALSE,Week 16,KBAI-7637,,
+KBAI-7637 - Week 17,4/29/24,12:00 AM,5/5/24,12:00 AM,FALSE,"1. 26: Wrap-Up (30)
+2. End-of-Course Survey
+3. CIOS Survey",,FALSE,Week 17,KBAI-7637,,
