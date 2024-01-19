@@ -16,7 +16,7 @@ You can easily import the class schedule to your Google Calendar by following th
 8. In case it's not already set, adjust the calendar time zone to Eastern Standard Time (EST) under `Settings`.
 9. Choose the Google Calendar where you wish to add these events (typically, this is the one you're logged into).
 10. Click `Import`.  Now, the OMSCS class schedules should be visible in your Google Calendar as it's imported in accordance to Eastern Standard Time (EST).
-11. Optional: You may change the time zone back to your own as needed.
+11. Double check that the the time zone is in fact correct for the assignments here.  You may change the time zone back to your own as needed.
 
 ## Report Errors
 
