@@ -1,0 +1,73 @@
+Subject,Start Date,Start Time,End Date,End Time,All day event,Description,Location,Private
+AIES-6603 - Case Study - Emails Exposed,5/27/24,6:00 AM,5/27/24,8:00 AM,FALSE,AIES-6603 - Case Study - Emails Exposed,,FALSE
+AIES-6603 - Case Study - Loan Denied,5/27/24,6:00 AM,5/27/24,8:00 AM,FALSE,AIES-6603 - Case Study - Loan Denied,,FALSE
+AIES-6603 - Homework Project - FB Assignment,5/27/24,6:00 AM,5/27/24,8:00 AM,FALSE,AIES-6603 - Homework Project - FB Assignment,,FALSE
+AIES-6603 - Homework Project - Stats 101 Assignment,6/3/24,6:00 AM,6/3/24,8:00 AM,FALSE,AIES-6603 - Homework Project - Stats 101 Assignment,,FALSE
+AIES-6603 - Case Study - Facebook Manipulation,6/10/24,6:00 AM,6/10/24,8:00 AM,FALSE,AIES-6603 - Case Study - Facebook Manipulation,,FALSE
+AIES-6603 - Exercise - Anscombe's Quartet,6/10/24,6:00 AM,6/10/24,8:00 AM,FALSE,AIES-6603 - Exercise - Anscombe's Quartet,,FALSE
+AIES-6603 - Exercise - Smoking Sampling Bias Design,6/10/24,6:00 AM,6/10/24,8:00 AM,FALSE,AIES-6603 - Exercise - Smoking Sampling Bias Design,,FALSE
+AIES-6603 - Critique - Ethical Autonomous Vehicles,6/10/24,6:00 AM,6/10/24,8:00 AM,FALSE,AIES-6603 - Critique - Ethical Autonomous Vehicles,,FALSE
+AIES-6603 - Case Study - Word Embeddings,6/17/24,6:00 AM,6/17/24,8:00 AM,FALSE,AIES-6603 - Case Study - Word Embeddings,,FALSE
+AIES-6603 - Exercise - Bias in Word Embeddings,6/17/24,6:00 AM,6/17/24,8:00 AM,FALSE,AIES-6603 - Exercise - Bias in Word Embeddings,,FALSE
+AIES-6603 - Mid-Term Exam,6/17/24,6:00 AM,6/17/24,8:00 AM,FALSE,AIES-6603 - Mid-Term Exam,,FALSE
+AIES-6603 - Case Study - Facial Recognition,6/24/24,6:00 AM,6/24/24,8:00 AM,FALSE,AIES-6603 - Case Study - Facial Recognition,,FALSE
+AIES-6603 - Homework - AI/ML Assignment – Part 1,6/24/24,6:00 AM,6/24/24,8:00 AM,FALSE,AIES-6603 - Homework - AI/ML Assignment – Part 1,,FALSE
+AIES-6603 - Mid-Course Survey,6/24/24,6:00 AM,6/24/24,8:00 AM,FALSE,AIES-6603 - Mid-Course Survey,,FALSE
+AIES-6603 - Case Study - Predictive Algorithms,7/1/24,6:00 AM,7/1/24,8:00 AM,FALSE,AIES-6603 - Case Study - Predictive Algorithms,,FALSE
+AIES-6603 - Exercise - Predictive Algorithms,7/1/24,6:00 AM,7/1/24,8:00 AM,FALSE,AIES-6603 - Exercise - Predictive Algorithms,,FALSE
+AIES-6603 - Homework - AI/ML Assignment – Part 2,7/1/24,6:00 AM,7/1/24,8:00 AM,FALSE,AIES-6603 - Homework - AI/ML Assignment – Part 2,,FALSE
+AIES-6603 - Exercise - AI Fairness 360,7/8/24,6:00 AM,7/8/24,8:00 AM,FALSE,AIES-6603 - Exercise - AI Fairness 360,,FALSE
+AIES-6603 - Exercise - What-If Tool,7/8/24,6:00 AM,7/8/24,8:00 AM,FALSE,AIES-6603 - Exercise - What-If Tool,,FALSE
+AIES-6603 - Critique - What-If Tool,7/8/24,6:00 AM,7/8/24,8:00 AM,FALSE,AIES-6603 - Critique - What-If Tool,,FALSE
+AIES-6603 - Homework - Fairness and Bias Assignment,7/15/24,6:00 AM,7/15/24,8:00 AM,FALSE,AIES-6603 - Homework - Fairness and Bias Assignment,,FALSE
+AIES-6603 - Final Project,7/22/24,6:00 AM,7/22/24,8:00 AM,FALSE,AIES-6603 - Final Project,,FALSE
+AIES-6603 - Final Exam,7/29/24,6:00 AM,7/29/24,8:00 AM,FALSE,AIES-6603 - Final Exam,,FALSE
+AIES-6603 - End-of-Course Survey,8/1/24,6:00 AM,8/1/24,8:00 AM,FALSE,AIES-6603 - End-of-Course Survey,,FALSE
+AIES-6603 - CIOS Survey,8/1/24,6:00 AM,8/1/24,8:00 AM,FALSE,AIES-6603 - CIOS Survey,,FALSE
+AIES-6603 - Week 1,5/13/24,12:00 AM,5/19/24,12:00 AM,FALSE,"- [task] Lesson 1: Introduction
+- [task] Lesson 2: Overview",,FALSE
+AIES-6603 - Week 2,5/20/24,12:00 AM,5/26/24,12:00 AM,FALSE,"- [task] Lesson 3: Ethics vs. Law
+- [task] Lesson 4: Data Collection
+- [deliverable] Discussion: Case Study - Emails Exposed
+- [deliverable] Discussion: Case Study - Loan Denied
+- [deliverable] Assignment: FB",,FALSE
+AIES-6603 - Week 3,5/27/24,12:00 AM,6/2/24,12:00 AM,FALSE,"- [task] Lesson 5: Fairness and Bias
+- [task] Lesson 6: BS of Big Data & Stats 101 Overview
+- [task] Lesson 7: Python and Stats 101
+- [deliverable] Assignment: Stats 101",,FALSE
+AIES-6603 - Week 4,6/3/24,12:00 AM,6/9/24,12:00 AM,FALSE,"- [task] Lesson 8: Descriptive Statistics
+- [task] Lesson 9: Inferential Statistics: Sampling Bias
+- [deliverable] Critique: Ethical Autonomous Vehicles
+- [deliverable] Exercise: Anscombe's Quartet
+- [deliverable] Exercise: Smoking Sampling Bias Design
+- [deliverable] Case Study: Facebook Manipulation",,FALSE
+AIES-6603 - Week 5,6/10/24,12:00 AM,6/16/24,12:00 AM,FALSE,"- [task] Lesson 10: Infer. Stats: Causation vs. Correlation
+- [task] Lesson 11: Infer. Stats: Confidence
+- [task] Lesson 12: AI/ML Techniques: Word Embeddings
+- [task] Lesson 13: Bias in Word Embeddings
+- [deliverable] Mid-Term Exam (Ethics and Stats)
+- [deliverable] Case Study: Word Embeddings
+- [deliverable] Exercise: Bias in Word Embeddings",,FALSE
+AIES-6603 - Week 6,6/17/24,12:00 AM,6/23/24,12:00 AM,FALSE,"- [task] Lesson 14: AI/ML Techniques: Facial Recognition
+- [task] Lesson 15: Bias in Facial Recognition
+- [deliverable] Assignment: AI/ML Part I
+- [deliverable] Case Study: Facial Recognition
+- [deliverable] Mid-Course Survey",,FALSE
+AIES-6603 - Week 7,6/24/24,12:00 AM,6/30/24,12:00 AM,FALSE,"- [task] Lesson 16: AI/ML Techniques: Predictive Algos
+- [task] Lesson 17: Crime-based Predictive Algorithms
+- [deliverable] Case Study: Preedicive Algorithms
+- [deliverable] Assignment: AI/ML Part II
+- [deliverable] Exercise: Predictive Algorithms",,FALSE
+AIES-6603 - Week 8,7/1/24,12:00 AM,7/7/24,12:00 AM,FALSE,"- [task] Lesson 18: Bias in Predictive Algorithms
+- [task] Lesson 19: Fairness and Bias
+- [deliverable] Written Critique: What-If Tool
+- [deliverable] Exercise: What-If Tool
+- [deliverable] Exercise: AI Fairness 360",,FALSE
+AIES-6603 - Week 9,7/8/24,12:00 AM,7/14/24,12:00 AM,FALSE,"- [task] Lesson 20: Fairness and Bias Assessment Tools
+- [task] Lesson 21: AI/ML Techniques for Bias Mitigation
+- [deliverable] Assignment: Fairness and Bias",,FALSE
+AIES-6603 - Week 10,7/15/24,12:00 AM,7/21/24,12:00 AM,FALSE,"- [task] Lesson 22: AI, Society, and Ethics Wrap-up
+- [deliverable] Final Project",,FALSE
+AIES-6603 - Week 11,7/22/24,12:00 AM,7/28/24,12:00 AM,FALSE,- [deliverable] Final Exam,,FALSE
+AIES-6603 - Week 12,7/29/24,12:00 AM,8/4/24,12:00 AM,FALSE,"- [deliverable] End-of-Course Survey
+- [deliverable] CIOS Survey",,FALSE
